@@ -1,81 +1,42 @@
-![](_assets/images/documentation/chalk-intro@2x.png)
+# Jekyll-Jacman
 
-Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll.
+Jekyll-Jacman 是为 [Jekyll](http://jekyllrb.com) 设计的一款清新且具有响应式的主题，拥有更丰富的特性并支持了很多的国内服务。Jacman 始于 [Jacman](https://github.com/wuchong/jacman) 移植而来。
 
-## Overview
+[主题演示](http://simpleyyt.github.io/jekyll-jacman/) | [Yitao's Blog](http://simpleyyt.github.io)
 
-Features:
-  - Dark and Light theme.
-  - Filter on tags.
-  - customizable pagination.
-  - Beautified link sharing in Facebook and other social media.
-  - Automatic time to read post indicator.
-  - Automatic RSS feed.
-  - About page.
-  - 404 page.
-  - SEO optimized.
-  - PageSpeed optimized.
-  - Cross browser support (supports all modern browsers).
-  - Media embed for videos.
-  - Enlarge images on click (like Medium).
+[如何使用 Jacman 主题](http://simpleyyt.github.io/jekyll-jacman/jekyll/2015/09/20/how-to-use-jacman/)
 
-Integrations
-  - [Google Analytics](https://analytics.google.com/analytics/web/)
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Ionicons](http://ionicons.com/)
-  - Social media links
+##功能
+- **菜单 menu**  
+ 主导航菜单
+- **控件 widget**  
+ 侧边栏的控件。包括：分类、标签、RSS、友情链接、微博秀。
+- **图片相关 Image**  
+ 设置网站图标、网站logo、作者头像、博客顶部大图等。还提供了多种图片样式`img-logo`,`img-topic`,`img-center`等。
+- **首页模式 index**  
+ 主题提供了两种首页展示模式。
+- **作者 author**  
+ 作者信息，主要用于展示网站右下角的社交网络链接。包括：微博、豆瓣、知乎、邮箱、GitHub、StackOverflow、Twitter、Facebook、Linkedin、Google+。
+- **目录 toc**  
+ 在文章中和侧边栏可以显示目录。
+- **评论 comments**  
+ 支持 [多说](http://duoshuo.com/) & [disqus](https://disqus.com/) 评论。
+- **分享 jiathis**  
+ 启用 内建分享工具 或 [加网](http://www.jiathis.com/) 分享系统。
+- **网站统计 Analytiscs**  
+ 支持 [谷歌统计](http://www.google.com/analytics/) & [百度统计](http://tongji.baidu.com/) & [CNZZ站长统计](http://www.cnzz.com/)。
+- **Search**  
+ 支持 [谷歌自定义搜索](https://www.google.com/cse/ ) & [百度站内搜索](http://zn.baidu.com/)  &[微搜索](http://tinysou.com/)。
+- **totop**  
+ 回到顶部。
+- **rss**  
+ RSS 订阅链接。
+- **fancybox**  
+ 图片查看的 [Fancybox](http://fancyapps.com/fancybox/) 工具。
+- **自定义主题颜色**
+ 在`_config.yaml`中就可以修改主题的颜色，而不用去找那些奇怪的 stylus 文件。
+- **其他**
+ 你可以设置侧边栏在博文页面中不显示。
 
-Used tools
-  - [Autoprefixer](https://github.com/postcss/autoprefixer)
-  - [Bower](http://bower.io/)
-  - [Circle CI](https://circleci.com/)
-  - [Html-proofer](https://github.com/gjtorikian/html-proofer)
-  - [Jekyll](http://jekyllrb.com/)
-  - [Jekyll assets](https://github.com/jekyll/jekyll-assets)
-  - [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
-  - [HTML5 Boilerplate](https://html5boilerplate.com/) (Influenced by)
-  - [Kickster](http://kickster.nielsenramon.com/)
-  - [Retina.js](http://imulus.github.io/retinajs/)
-  - [STACSS](http://stacss.nielsenramon.com/)
-
-## Usage
-
-### Installation
-
-If you haven't installed the following tools then go ahead and do so (make sure you have [Homebrew](http://brew.sh/) installed):
-
-    brew install ruby
-    brew install npm
-
-Next setup your environment:
-
-    bin/setup
-
-### Development
-
-Run Jekyll:
-
-    bundle exec jekyll serve
-
-### Deploy to GitHub Pages
-
-Run this in the root project folder in your console:
-
-    bin/deploy
-
-You can find more info on how to use the gh-pages branch and a custom domain [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-[View this](https://github.com/nielsenramon/kickster#automated-deployment-with-circle-ci) for more info about automated deployment with Circle CI.
-
-## License
-
-MIT License
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/chalk/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+##协议
+[MIT](/LICENSE)
