@@ -74,7 +74,7 @@ author_img: img/author.jpg   ## 网站底部的博主头像
 
 #### index post is expanding or not
 index:
-  expand: true           ## default is unexpanding,so you can only see the short description of each post.
+  expand: false           ## default is unexpanding,so you can only see the short description of each post.
   excerpt_link: Read More
 
 close_aside: true  #close sidebar in post page if true
