@@ -28,7 +28,7 @@ redcarpet:
     - with_toc_data
 
 
-title : 李腾‘s Blog
+title : RickyLee‘s Blog
 tagline: 一切伟大的思想和行动，都有一个微不足道的开始,那就是:"Hello,World"
 
 defaults:
@@ -83,8 +83,8 @@ mathjax: true      #enable mathjax if true
 
 #### Author information
 author:
-  name: 李腾      ## e.g. wuchong Author name
-  intro_line1:  "你好，我是李腾."    ## your introduction on the bottom of the page
+  name: RickyLee      ## e.g. wuchong Author name
+  intro_line1:  "你好，我是RickyLee."    ## your introduction on the bottom of the page
   intro_line2:  ""  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
