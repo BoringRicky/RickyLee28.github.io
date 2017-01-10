@@ -2,7 +2,6 @@
 layout: post
 title: Android View 绘制过程
 tags:
-- Android
 - View 绘制
 categories: Android View
 description: Android View 测量过程
