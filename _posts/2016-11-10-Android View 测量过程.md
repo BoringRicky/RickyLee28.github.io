@@ -3,7 +3,7 @@ layout: post
 title: Android View 测量过程
 tags:
 - Android
-categories: View
+categories: Android View
 description: Android View 测量过程
 ---
 
