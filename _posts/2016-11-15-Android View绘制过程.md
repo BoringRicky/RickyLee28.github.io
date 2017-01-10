@@ -3,7 +3,8 @@ layout: post
 title: Android View 绘制过程
 tags:
 - Android
-categories: Android,View绘制,draw,onDraw,invalidate,requetLayout
+- View 绘制
+categories: Android,View绘制
 description: Android View 测量过程
 ---	
 

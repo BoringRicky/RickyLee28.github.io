@@ -3,7 +3,8 @@ layout: post
 title: Android View 布局过程
 tags:
 - Android
-categories: Android,View布局,layout,onLayout
+- View 布局
+categories: Android View 
 description: Android View 布局过程
 ---	
 
