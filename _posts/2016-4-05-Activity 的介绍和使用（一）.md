@@ -1,3 +1,13 @@
+---
+layout: post
+title: Activity 的介绍和使用（一） 
+tags:
+- Android
+categories: Android,Activity
+description: Activity 的介绍和使用（一）
+---
+
+
 #### Activity是什么
 Activity是Android的四大组件之一。是用户操作的可视化界面；它为用户提供了一个完成操作指令的窗口。当我们创建完毕Activity之后，需要调用`setContentView()`方法来完成界面的显示；以此来为用户提供交互的入口。在Android App 中只要能看见的几乎都要依托于Activity，所以Activity是在开发中使用最频繁的一种组件。
 

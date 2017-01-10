@@ -1,3 +1,13 @@
+---
+layout: post
+title: ListView 的介绍和使用 
+tags:
+- Android
+categories: Android,ListView
+description: ListView 的介绍和使用
+---
+
+
 ListView 在Android 开发中是比较常用的控件，ListView 主要用于显示列表。比如常见的新闻列表和商品列表等，虽然现在Google提供了功能更加强大的RecylerView，但是ListView仍然占有一席之地。我们今天就介绍一下ListView。
 
 ListView 常用的属性：

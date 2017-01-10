@@ -1,4 +1,13 @@
-​	当Android 的View测量完毕之后，才可以去布局。我们在测量时获取到的`MeasuredHeight`和`MeasuredWidth`,在布局的时候就会用到，毕竟只有知道尺寸才好确定位置。
+​---
+layout: post
+title: Android View 布局过程
+tags:
+- Android
+categories: Android,View布局,layout,onLayout
+description: Android View 布局过程
+---	
+
+当Android 的View测量完毕之后，才可以去布局。我们在测量时获取到的`MeasuredHeight`和`MeasuredWidth`,在布局的时候就会用到，毕竟只有知道尺寸才好确定位置。
 
 布局相对于测量来说就相对简单了很多。布局的过程就是确定View在界面显示位置的过程。View是一个矩形，决定一个View在界面显示的位置的信息主要是四个边到父View的边距，这里会有四个变量来记录各个边到父View的距离：
 

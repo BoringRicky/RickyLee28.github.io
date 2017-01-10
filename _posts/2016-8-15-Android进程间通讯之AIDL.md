@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android 进程间通讯之AIDL
+tags:
+- Android
+categories: Android,AIDL
+description: Android 进程间通讯之AIDL
+---
+
 ## Android AIDL的使用
 
 ####什么是AIDL？

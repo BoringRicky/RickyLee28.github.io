@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android SQLite 介绍与简单使用(一)
+tags:
+- Android
+categories: Android,SQLite
+description: Android SQLite 介绍与简单使用
+---
+
 SQLite 是一款小巧的嵌入式数据库，在Android和IOS中使用的数据库就是SQLite，它用的内存很少。并且它支持支持 SQL92（SQL2）标准的大多数查询语言的功能。而且它不需要配置，很容易使用。
 
 ### SQLite命令

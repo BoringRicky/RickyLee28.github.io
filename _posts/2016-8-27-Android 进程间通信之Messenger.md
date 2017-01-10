@@ -1,3 +1,13 @@
+---
+layout: post
+title: Android 进程间通讯之Messenger
+tags:
+- Android
+categories: Android,Messenger
+description: Android 进程间通讯之Messenger
+---
+
+
 #### Android进程间通讯的方式
 
 ​	当我们需要执行 IPC（进程间通信）时，一般有两种方式：AIDL和Messenger。关于AIDL的介绍请参看[Android进程间通讯之AIDL](http://blog.csdn.net/litengit/article/details/52193984)。我们这里只介绍`Messenger`。

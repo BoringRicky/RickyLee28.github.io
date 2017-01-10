@@ -1,3 +1,12 @@
+---
+layout: post
+title: ListView BaseAdapter与多布局 
+tags:
+- Android
+categories: Android,ListView，BaseAdapter，多布局
+description: ListView BaseAdapter与多布局 
+---
+
 上一节说了ListView使用Android API 提供了的Adapter，下面我们自己自定义一个Adapter。一般我们都要继承BaseAdapter来实现自定义。BaseAdapter是以抽象类，我只需要实现其中的几个方法就OK。
 
 1. 准备数据

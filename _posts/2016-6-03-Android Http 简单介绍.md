@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android HTTP 简单使介绍
+tags:
+- Android
+categories: Android,Http,HttpURLConnection
+description: Android HTTP 简单使介绍
+---
+
 现在几乎所有的Android应用或者游戏中联网功能几乎是不可缺少的。所以在我们开发中用到网络通信的机会非常多，这里简单介绍其中的Http通信。
 
 在Android 6.0 中彻底的将Apache的HttpClient给移除掉了。而且google提倡在Android 2.3之后的网络请求中使用HttpURLConnnection,之前的HttpClient 就不再建议使用了。所以我们这里只介绍HttpURLConnection。

@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android SQLite 介绍与简单使用(二)
+tags:
+- Android
+categories: Android,SQLite
+description: Android SQLite 介绍与简单使用
+---
+
 上一节简单介绍了一下SQLite，这一节我们开始SQLite在Android中的应用。
 
 Android提供了一个数据库的帮助类 `SQLiteOpenHelper`，用于管理数据库的创建和版本管理。我们可以继承这个类，实现它的 `onCreate`和 `onUpgrade`方法。我们可以在这里设置数据库的版本，数据库名称，创建数据库表等。下面看代码：

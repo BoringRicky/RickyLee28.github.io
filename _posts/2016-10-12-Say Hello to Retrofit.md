@@ -1,3 +1,13 @@
+---
+layout: post
+title: Say Hello to Retrofit
+tags:
+- Android
+categories: Android,转载,Retrofit
+description: Android Retrofit 的使用
+---
+
+
 该文章转载自[LaterEqualsNever](http://blog.csdn.net/ghost_programmer)的[Say Hello to Retrofit](http://blog.csdn.net/ghost_programmer/article/details/52372065)
 
 <p>之前对Android里常用的网络请求库OkHttp与Volley做了简单的学习归纳与总结，这里看这个系列中的最后一篇，来认识一下Retrofit。 <br>

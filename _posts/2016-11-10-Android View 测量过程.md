@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android View 测量过程
+tags:
+- Android
+categories: Android,View测量,measure,onMeasure
+description: Android View 测量过程
+---
+
 ###  为什么要测量
 
 ​	我们在xml里设置布局时，必须要设定它的宽和高，不设置的话就会报错。 这是因为我们必须要告诉系统我们的View/ViewGroup需要多大的区域去绘制它。当我们给它设置好宽高后，系统需要测量一下才能知道它的尺寸，从而确定需要多大的区域去绘制它。

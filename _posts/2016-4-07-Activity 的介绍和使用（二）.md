@@ -1,3 +1,13 @@
+---
+layout: post
+title: Activity 的介绍和使用（二） 
+tags:
+- Android
+categories: Android,Activity
+description: Activity 的介绍和使用（二）
+---
+
+
 上一节介绍了Activity的生命周期，这一节介绍Activity的屏幕旋转对生命周期的影响，以及Activity的启动模式。
 
 

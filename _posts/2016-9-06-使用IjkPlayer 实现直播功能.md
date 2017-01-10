@@ -1,3 +1,12 @@
+---
+layout: post
+title: Android 使用IjkPlayer实现直播
+tags:
+- Android
+categories: Android,直播,ijkplayer
+description: Android 使用IjkPlayer实现直播
+---
+
 最近直播很火，是的，很火很火！
 
 我也想搞一下这个很火很火的东西，怎么办？
