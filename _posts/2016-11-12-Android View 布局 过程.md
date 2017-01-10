@@ -2,8 +2,7 @@
 layout: post
 title: Android View 布局过程
 tags:
-- Android
-- View 布局
+- View
 categories: Android View 
 description: Android View 布局过程
 ---	
