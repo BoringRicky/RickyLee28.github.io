@@ -1,11 +1,11 @@
-​---
+---
 layout: post
 title: Android View 布局过程
 tags:
 - Android
 categories: View 
 description: Android View 布局过程
----	
+---
 
 当Android 的View测量完毕之后，才可以去布局。我们在测量时获取到的`MeasuredHeight`和`MeasuredWidth`,在布局的时候就会用到，毕竟只有知道尺寸才好确定位置。
 
@@ -18,8 +18,8 @@ description: Android View 布局过程
 
 >  注意:这里的距离单位是像素;Android 屏幕的像素原点在屏幕的左上角，所以View的宽高计算如下:
 >
-> View的宽=mRight-mLeft
-> View的高=mBottom-mTop
+>  View的宽=mRight-mLeft
+>  View的高=mBottom-mTop
 
 这里的宽高和测量来的MeasuredWidth和MeasuredHeight是不同的，不要混淆.看它们的源码：
 
