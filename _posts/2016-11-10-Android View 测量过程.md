@@ -4,7 +4,7 @@ title: Android View 测量过程
 tags:
 - Android
 categories: Android View
-description: Android View 测量过程
+description: View 测量过程
 ---
 
 ###  为什么要测量
