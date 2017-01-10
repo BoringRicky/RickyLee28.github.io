@@ -3,8 +3,8 @@ layout: post
 title: Android View 绘制过程
 tags:
 - Android
-  categories: Android View
-  description: Android View 测量过程
+categories: Android View
+description: Android View 测量过程
 ---
 
 View经过测量和布局之后，就剩下绘制了；测量和布局是为了确定View尺寸和位置，而绘制就是就是将我们想显示到界面上的东西画到View上。
