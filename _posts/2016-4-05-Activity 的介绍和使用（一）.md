@@ -3,7 +3,7 @@ layout: post
 title: Activity 的介绍和使用（一） 
 tags:
 - Android
-categories: Android,Activity
+categories: Android Activity
 description: Activity 的介绍和使用（一）
 ---
 

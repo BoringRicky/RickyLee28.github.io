@@ -3,7 +3,7 @@ layout: post
 title: Android 进程间通讯之AIDL
 tags:
 - Android
-categories: Android,AIDL
+categories: Android AIDL
 description: Android 进程间通讯之AIDL
 ---
 

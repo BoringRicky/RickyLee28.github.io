@@ -3,7 +3,7 @@ layout: post
 title: Android 进程间通讯之Messenger
 tags:
 - Android
-categories: Android,Messenger
+categories: Android Messenger
 description: Android 进程间通讯之Messenger
 ---
 

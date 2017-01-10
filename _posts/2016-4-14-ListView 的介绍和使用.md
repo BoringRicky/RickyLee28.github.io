@@ -3,7 +3,7 @@ layout: post
 title: ListView 的介绍和使用 
 tags:
 - Android
-categories: Android,ListView
+categories: Android ListView
 description: ListView 的介绍和使用
 ---
 

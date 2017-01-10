@@ -3,7 +3,7 @@ layout: post
 title: Android HTTP 简单使介绍
 tags:
 - Android
-categories: Android,Http,HttpURLConnection
+categories: Android Http
 description: Android HTTP 简单使介绍
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Android SQLite 介绍与简单使用(二)
 tags:
 - Android
-categories: Android,SQLite
+categories: Android SQLite
 description: Android SQLite 介绍与简单使用
 ---
 

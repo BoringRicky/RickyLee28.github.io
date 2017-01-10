@@ -3,7 +3,7 @@ layout: post
 title: ListView BaseAdapter与多布局 
 tags:
 - Android
-categories: Android,ListView，BaseAdapter，多布局
+categories: Android ListView
 description: ListView BaseAdapter与多布局 
 ---
 

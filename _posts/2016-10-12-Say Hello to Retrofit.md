@@ -2,8 +2,9 @@
 layout: post
 title: Say Hello to Retrofit
 tags:
+- 转载
 - Android
-categories: Android,转载,Retrofit
+categories: Android Retrofit
 description: Android Retrofit 的使用
 ---
 

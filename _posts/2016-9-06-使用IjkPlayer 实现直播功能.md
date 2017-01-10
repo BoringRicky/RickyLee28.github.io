@@ -3,7 +3,7 @@ layout: post
 title: Android 使用IjkPlayer实现直播
 tags:
 - Android
-categories: Android,直播,ijkplayer
+categories: Android ijkplayer直播
 description: Android 使用IjkPlayer实现直播
 ---
 
